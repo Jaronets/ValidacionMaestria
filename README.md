@@ -198,13 +198,6 @@ Resumen de Validacion de Maestria Amigos
 
 ---
 
-## 📞 CONTACTO
-
-**Dr. Roberto Vargas Arreola**  
-Director de programas en Psicoanálisis  
-📞 Tel: (55) 5487-1300 ext. 4443  
-📱 Celular: 55 4549 5936
-
 ---
 
 *Documento generado el: Noviembre 2025*  
