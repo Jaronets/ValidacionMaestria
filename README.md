@@ -1,7 +1,3 @@
-# ValidacionMaestria
-Resumen de Validacion de Maestria Amigos
-
-
 # Análisis de la Maestría en Psicoterapia Psicoanalítica - UIC
 
 ## VENTAJAS
@@ -159,6 +155,130 @@ Resumen de Validacion de Maestria Amigos
 
 ---
 
+## 💵 DESGLOSE DETALLADO DE COSTOS (Pregunta 7)
+
+### Análisis Didáctico (Obligatorio durante TODO el programa)
+
+**Costo por sesión:** $600.00 pesos
+
+**Frecuencia recomendada:** 2 veces por semana
+
+#### Cálculo Mensual:
+- 2 sesiones/semana × 4 semanas = 8 sesiones/mes
+- 8 sesiones × $600 = **$4,800 por mes**
+
+#### Cálculo Anual:
+- 12 meses × $4,800 = **$57,600 por año**
+
+#### Cálculo Total (3 años):
+- 3 años × $57,600 = **$172,800 total**
+- **Total de sesiones:** 288 sesiones aproximadamente
+
+> ⚠️ **Nota importante:** El documento menciona "se recomienda" 2 veces por semana, pero pueden considerarse "situaciones excepcionales" con el analista. Si solo asistes 1 vez por semana, el costo se reduce a la mitad: **$86,400 en 3 años**.
+
+---
+
+### Supervisión Individual Privada (Obligatoria)
+
+**Total requerido:** 125 horas
+
+**Costo por hora:** $600.00 pesos
+
+**Costo total de supervisión:** 125 horas × $600 = **$75,000 total**
+
+#### Opciones de distribución:
+
+**OPCIÓN A: Primera supervisión de 75 horas**
+- **Primera supervisión:** 75 horas × $600 = $45,000
+  - Inicia: 2° semestre
+  - Duración estimada: 4 semestres (2 años)
+  - Promedio: ~9 horas por semestre
+  
+- **Segunda supervisión:** 50 horas × $600 = $30,000
+  - Inicia: 4° semestre
+  - Duración estimada: 2 semestres (1 año)
+  - Promedio: 25 horas por semestre
+
+**OPCIÓN B: Primera supervisión de 50 horas**
+- **Primera supervisión:** 50 horas × $600 = $30,000
+  - Inicia: 2° semestre
+  - Duración estimada: 3 semestres (1.5 años)
+  - Promedio: ~17 horas por semestre
+  
+- **Segunda supervisión:** 75 horas × $600 = $45,000
+  - Inicia: 4° semestre
+  - Duración estimada: 2 semestres (1 año)
+  - Promedio: 37.5 horas por semestre
+
+---
+
+### Costos de Admisión
+
+| Concepto | Cantidad | Costo Unitario | Total |
+|----------|----------|----------------|-------|
+| Entrevistas de selección | 3 | $600 c/u | $1,800 |
+
+---
+
+### RESUMEN DE COSTOS OBLIGATORIOS (Sin incluir colegiatura)
+
+| Concepto | Escenario Mínimo | Escenario Recomendado |
+|----------|------------------|----------------------|
+| **Entrevistas de selección** | $1,800 | $1,800 |
+| **Análisis didáctico** | $86,400<br/>(1 vez/semana × 3 años) | $172,800<br/>(2 veces/semana × 3 años) |
+| **Supervisión privada** | $75,000<br/>(125 horas) | $75,000<br/>(125 horas) |
+| **SUBTOTAL** | **$163,200** | **$249,600** |
+| **Promedio mensual** | $4,533/mes | $6,933/mes |
+
+---
+
+### Proyección de Gastos por Semestre
+
+#### Con análisis didáctico 2 veces por semana (recomendado):
+
+| Semestre | Análisis (5 meses) | Supervisión | Total Semestre |
+|----------|-------------------|-------------|----------------|
+| **Propedéutico** (3 meses) | $14,400 | $0 | $14,400 |
+| **1° Semestre** | $24,000 | $0 | $24,000 |
+| **2° Semestre** | $24,000 | ~$9,000 | $33,000 |
+| **3° Semestre** | $24,000 | ~$9,000 | $33,000 |
+| **4° Semestre** | $24,000 | ~$18,750 | $42,750 |
+| **5° Semestre** | $24,000 | ~$28,250 | $52,250 |
+| **TOTAL** | $134,400 | $65,000 | **$199,400** |
+
+*Nota: Los costos de supervisión varían según la opción elegida (A o B) y el ritmo de las sesiones.*
+
+---
+
+### 🚨 COSTOS NO ESPECIFICADOS EN EL DOCUMENTO
+
+- ❌ **Colegiatura del propedéutico**
+- ❌ **Colegiatura de los 5 semestres de maestría**
+- ❌ **Inscripción/reinscripción**
+- ❌ **Materiales didácticos/libros**
+- ❌ **Costos de titulación (tesis)**
+- ❌ **Cuota de membresía al Consejo Mexicano**
+- ❌ **Transporte a instalaciones (modalidad mixta)**
+- ❌ **Posibles incrementos anuales**
+
+---
+
+### 💡 RECOMENDACIÓN FINANCIERA
+
+**Presupuesto conservador mensual:**
+- Análisis (2×/semana): $4,800
+- Supervisión (promedio): $2,083
+- Colegiatura estimada: $3,000 - $8,000 (sin confirmar)
+- **Total mensual: $9,883 - $14,883**
+
+**Presupuesto total 3 años:**
+- Escenario conservador: **$355,000 - $535,000 MXN**
+- Escenario con descuentos: **$290,000 - $400,000 MXN**
+
+⚠️ **Es CRÍTICO confirmar el costo de colegiatura antes de inscribirte.**
+
+---
+
 ## 🚨 BANDERAS ROJAS A INVESTIGAR
 
 1. **Ausencia total de costos de colegiatura en el documento**
@@ -169,19 +289,28 @@ Resumen de Validacion de Maestria Amigos
 
 ---
 
-## 📊 ESTIMACIÓN DE COSTOS TOTALES (3 AÑOS)
+## 📊 RESUMEN EJECUTIVO DE COSTOS
 
-| Concepto | Costo Estimado |
-|----------|----------------|
-| Entrevistas de selección (3) | $1,800 |
-| Colegiatura (6 semestres) | **NO ESPECIFICADO** |
-| Análisis didáctico (3 años, 2x/semana) | $172,800 |
-| Supervisión privada (125 horas) | $75,000 |
-| Propedéutico | **NO ESPECIFICADO** |
-| **SUBTOTAL SIN COLEGIATURA** | **$249,600** |
-| **ESTIMADO CON COLEGIATURA** | **$400,000 - $600,000** |
+| Concepto | Mínimo | Recomendado | Máximo |
+|----------|---------|-------------|---------|
+| Entrevistas selección | $1,800 | $1,800 | $1,800 |
+| Propedéutico | **NO ESPECIFICADO** | **NO ESPECIFICADO** | **NO ESPECIFICADO** |
+| Colegiatura (5 semestres) | **NO ESPECIFICADO** | **NO ESPECIFICADO** | **NO ESPECIFICADO** |
+| Análisis didáctico (3 años) | $86,400 | $172,800 | $259,200* |
+| Supervisión (125 horas) | $75,000 | $75,000 | $75,000 |
+| **SUBTOTAL CONFIRMADO** | **$163,200** | **$249,600** | **$336,000** |
+| **ESTIMADO CON COLEGIATURA** | **$290,000** | **$400,000** | **$600,000** |
 
-*Nota: Esta estimación es conservadora y no incluye gastos de transporte, materiales, o posibles incrementos anuales.*
+*Si se asiste 3 veces por semana al análisis didáctico
+
+### Gasto Mensual Promedio (36 meses)
+
+| Concepto | Escenario Mínimo | Escenario Recomendado |
+|----------|------------------|----------------------|
+| Análisis didáctico | $2,400/mes | $4,800/mes |
+| Supervisión | $2,083/mes | $2,083/mes |
+| Colegiatura estimada | $3,500/mes | $5,000/mes |
+| **TOTAL MENSUAL** | **$7,983/mes** | **$11,883/mes** |
 
 ---
 
@@ -198,4 +327,3 @@ Resumen de Validacion de Maestria Amigos
 
 ---
 
----
