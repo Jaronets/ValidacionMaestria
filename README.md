@@ -199,6 +199,3 @@ Resumen de Validacion de Maestria Amigos
 ---
 
 ---
-
-*Documento generado el: Noviembre 2025*  
-*Basado en: PREGUNTAS FRECUENTES - Maestría en Psicoterapia Psicoanalítica, Universidad Intercontinental*
