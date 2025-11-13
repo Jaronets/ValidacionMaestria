@@ -271,6 +271,195 @@ Aunque el documento no lo explica directamente, el análisis didáctico es funda
 
 ---
 
+## 💰 ANÁLISIS DIDÁCTICO - DESGLOSE DE COSTO MÍNIMO
+
+### 📉 COSTO MÍNIMO: $86,400
+
+#### Cálculo Base (1 vez por semana)
+
+```
+1 sesión/semana × $600 = $600 por semana
+$600 × 4 semanas = $2,400 por mes
+$2,400 × 12 meses = $28,800 por año
+$28,800 × 3 años = $86,400 TOTAL
+```
+
+---
+
+### 📊 DESGLOSE DETALLADO POR PERIODO
+
+| Frecuencia | Costo |
+|------------|-------|
+| **Por Semana** | $600 (1 sesión) |
+| **Por Mes** | $2,400 (4 sesiones) |
+| **Por Semestre** | $12,000 (20 sesiones/5 meses) |
+| **Por Año** | $28,800 (48 sesiones) |
+| **Propedéutico** | $7,200 (12 sesiones/3 meses) |
+| **TOTAL 3 AÑOS** | **$86,400 (144 sesiones)** |
+
+---
+
+### 📅 DISTRIBUCIÓN TEMPORAL (Escenario Mínimo)
+
+| Periodo | Duración | Sesiones | Costo |
+|---------|----------|----------|-------|
+| **Propedéutico** | 3 meses | 12 | $7,200 |
+| **1° Semestre** | 5 meses | 20 | $12,000 |
+| **2° Semestre** | 5 meses | 20 | $12,000 |
+| **3° Semestre** | 5 meses | 20 | $12,000 |
+| **4° Semestre** | 5 meses | 20 | $12,000 |
+| **5° Semestre** | 5 meses | 20 | $12,000 |
+| **Periodo final** | 3 meses | 12 | $7,200 |
+| **TOTAL** | **36 meses** | **144** | **$86,400** |
+
+---
+
+### 🔻 ESCENARIOS ALTERNATIVOS
+
+#### ⚠️ Escenario "Ultra Mínimo" (NO RECOMENDADO)
+
+**Si asistieras cada 15 días** (2 sesiones/mes):
+- 2 sesiones/mes × $600 = $1,200/mes
+- $1,200 × 36 meses = **$43,200 total**
+
+**RIESGOS de este escenario:**
+- ❌ Podría no ser aceptado por la Coordinación
+- ❌ El Consejo Mexicano podría rechazarlo
+- ❌ Calidad terapéutica muy baja
+- ❌ No cumplirías estándares psicoanalíticos
+- ❌ Proceso terapéutico ineficaz
+
+---
+
+#### 💡 Escenario "Negociado" (Posible con justificación)
+
+**Combinación variable según necesidades:**
+- Primeros 6 meses: 2 veces/semana = $14,400
+- Siguientes 24 meses: 1 vez/semana = $57,600
+- Últimos 6 meses: 2 veces/semana = $14,400
+- **Total: $86,400**
+
+Mantiene el mismo costo mínimo pero con más intensidad al inicio y final del proceso.
+
+---
+
+### 💸 FORMAS DE REDUCIR EL COSTO MÍNIMO
+
+#### 1️⃣ Reducir duración del programa
+- Si terminas en 2.5 años en vez de 3 años
+- **Ahorro: $7,200**
+- **Nuevo total: $79,200**
+
+#### 2️⃣ Periodos sin sesiones (vacaciones)
+- Si tomas 2 meses de vacaciones en los 3 años
+- **Ahorro: $4,800**
+- **Nuevo total: $81,600**
+
+#### 3️⃣ Negociar con analista externo
+- Algunos analistas cobran menos ($400-500/sesión)
+- A $500/sesión (1x/semana × 3 años)
+- **Total: $72,000**
+- **Ahorro: $14,400**
+- ⚠️ Requiere aprobación de la Dirección con CV del analista
+
+---
+
+### 📉 TABLA COMPARATIVA DE TODOS LOS ESCENARIOS
+
+| Escenario | Frecuencia | Sesiones Totales | Costo Total | Ahorro vs Recomendado |
+|-----------|------------|------------------|-------------|-----------------------|
+| **Recomendado** | 2x/semana | 288 | $172,800 | - |
+| **MÍNIMO REALISTA** | 1x/semana | 144 | **$86,400** | **$86,400 (50%)** |
+| Ultra mínimo | 2x/mes | 72 | $43,200 | $129,600 (75%) |
+| Con analista externo | 1x/semana | 144 | $72,000 | $100,800 (58%) |
+| Programa acelerado | 1x/semana (2.5 años) | 120 | $72,000 | $100,800 (58%) |
+
+---
+
+### ⚖️ VENTAJAS Y DESVENTAJAS DEL ESCENARIO MÍNIMO
+
+#### ✅ VENTAJAS del escenario mínimo ($86,400):
+
+1. **Ahorro significativo:** $86,400 menos que el recomendado (50% de descuento)
+2. **Gasto mensual manejable:** $2,400/mes en vez de $4,800/mes
+3. **Más compatible con presupuesto limitado**
+4. **Permite destinar recursos a otras necesidades** (colegiatura, supervisión)
+5. **Menos demandante en tiempo** (1 día/semana vs. 2)
+
+#### ❌ DESVENTAJAS del escenario mínimo:
+
+1. **Proceso terapéutico más lento y superficial**
+2. **Menor profundidad en el análisis personal**
+3. **Podría no ser suficiente según tu perfil psicológico**
+4. **Algunos analistas podrían rechazarte** (prefieren mayor frecuencia)
+5. **El Consejo Mexicano podría cuestionar la rigurosidad**
+6. **No cumple estándares psicoanalíticos clásicos** (Freud recomendaba 4-5 veces/semana)
+7. **Menor continuidad en el proceso** (más interrupciones entre sesiones)
+8. **Podrías necesitar más tiempo** para alcanzar objetivos terapéuticos
+
+---
+
+### 🎯 RECOMENDACIÓN ESTRATÉGICA: "Escenario Inteligente"
+
+En lugar de elegir el mínimo constante, considera una **estrategia variable**:
+
+| Periodo | Frecuencia | Costo Periodo | Razón |
+|---------|-----------|---------------|-------|
+| **Año 1** (Propedéutico + 1° sem) | 2x/semana | $33,600 | Establecer vínculo terapéutico sólido |
+| **Año 2** (2° y 3° semestre) | 1x/semana | $28,800 | Mantenimiento y ahorro económico |
+| **Año 3** (4° y 5° semestre) | 2x/semana | $28,800 | Cierre, integración y elaboración final |
+| **TOTAL** | Variable | **$91,200** | Balance óptimo costo/beneficio |
+
+**Beneficios de esta estrategia:**
+- Solo $4,800 más que el mínimo absoluto
+- Mucho mejor calidad terapéutica
+- Inicio y cierre intensivos (lo más importante)
+- Más probable que sea aceptado por Coordinación y Consejo
+- Balance entre economía y efectividad
+
+---
+
+### 📋 RESUMEN EJECUTIVO - COSTO MÍNIMO
+
+| Concepto | Valor |
+|----------|-------|
+| **COSTO MÍNIMO REALISTA** | **$86,400** |
+| **Frecuencia** | 1 vez por semana |
+| **Duración** | 36 meses (3 años) |
+| **Total de sesiones** | 144 sesiones |
+| **Costo por sesión** | $600 |
+| **Gasto mensual** | $2,400 |
+| **Ahorro vs recomendado** | $86,400 (50% menos) |
+| **% del costo total (sin colegiatura)** | 35% del total de análisis + supervisión |
+
+---
+
+### ❓ PREGUNTAS CRÍTICAS ANTES DE OPTAR POR EL MÍNIMO
+
+45. ¿La Coordinación acepta explícitamente 1 vez por semana durante todo el programa?
+46. ¿El Consejo Mexicano valida análisis didáctico de 1 vez/semana para graduación?
+47. ¿Qué porcentaje de estudiantes hace el mínimo vs. el recomendado?
+48. ¿Hay casos documentados donde rechazaron graduación por análisis "insuficiente"?
+49. ¿Puedo cambiar la frecuencia durante el programa según mi situación económica?
+50. ¿Los analistas de la lista aceptan trabajar con frecuencia de 1 vez/semana?
+51. ¿El diploma del Consejo Mexicano distingue entre frecuencias de análisis?
+
+---
+
+### 🚨 ADVERTENCIA FINAL
+
+**El costo mínimo absoluto es $86,400**, PERO deberías:
+
+1. ✅ **Validar con la institución** si esto es realmente aceptable
+2. ✅ **Consultar con el Consejo Mexicano** sobre requisitos mínimos
+3. ✅ **Evaluar tu perfil psicológico** - quizás necesites más frecuencia
+4. ✅ **Considerar la calidad** sobre el ahorro extremo
+5. ✅ **Preguntar a egresados** qué frecuencia usaron
+
+**No comprometas tu formación y salud mental por ahorrar en exceso.** El análisis didáctico es la base de tu práctica profesional futura.
+
+---
+
 ## 👥 ¿QUÉ ES LA SUPERVISIÓN DIDÁCTICA?
 
 ### Definición:
@@ -542,3 +731,7 @@ La **supervisión didáctica** es el acompañamiento profesional donde un psicoa
 8. **Solicitar estadísticas** de graduación y empleabilidad
 
 ---
+
+
+*Documento generado el: Noviembre 2025*  
+*Basado en: PREGUNTAS FRECUENTES - Maestría en Psicoterapia Psicoanalítica, Universidad Intercontinental*
