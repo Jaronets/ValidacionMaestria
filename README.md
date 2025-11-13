@@ -155,6 +155,222 @@
 
 ---
 
+## 🛋️ ¿QUÉ ES EL ANÁLISIS DIDÁCTICO?
+
+### Definición Oficial (según documento):
+
+> **"El análisis didáctico consiste en el proceso psicoanalítico individual que se cursa durante el proceso de formación académica."**
+
+En términos simples: **Es tu propia terapia psicoanalítica obligatoria mientras estudias la maestría.**
+
+---
+
+### 📌 Características del Análisis Didáctico
+
+| Aspecto | Detalle |
+|---------|---------|
+| **¿Qué es?** | Sesiones de psicoanálisis individual donde TÚ eres el paciente |
+| **Duración** | TODO el programa (desde ingreso hasta graduación: 3+ años) |
+| **Obligatoriedad** | Requisito INDISPENSABLE para permanecer en el programa |
+| **Frecuencia** | 2 veces por semana (recomendado), con excepciones posibles |
+| **Costo** | $600 por sesión (tarifa reducida institucional) |
+| **Comprobación** | Formatos semestrales enviados al Consejo Mexicano |
+
+---
+
+### 🎯 ¿Por qué es obligatorio?
+
+Aunque el documento no lo explica directamente, el análisis didáctico es fundamental en la formación psicoanalítica por estas razones:
+
+#### 1. **Principio fundamental del psicoanálisis**
+- "No puedes analizar a otros si no te has analizado a ti mismo"
+- Conocer tus propios conflictos inconscientes evita proyectarlos en tus pacientes
+
+#### 2. **Experiencia formativa vivencial**
+- Aprendes el proceso desde "el otro lado del diván"
+- Experimentas en carne propia lo que vivirán tus futuros pacientes
+- Entiendes la resistencia, la transferencia y la contratransferencia desde adentro
+
+#### 3. **Desarrollo de autoconciencia profesional**
+- Reconoces tus "puntos ciegos" psicológicos
+- Identificas qué tipo de pacientes o problemáticas podrían "tocarte fibras"
+- Trabajas tus propios traumas antes de trabajar con los de otros
+
+#### 4. **Protección ética**
+- Evitas usar a tus pacientes para resolver tus propios conflictos
+- Reduces el riesgo de daño iatrogénico (causado por el terapeuta)
+- Mantienes límites profesionales saludables
+
+---
+
+### 📋 Requisitos y Proceso
+
+#### Selección del Analista:
+
+**Opción 1: Listado institucional (más común)**
+- La Coordinación proporciona lista de analistas avalados
+- Tarifa especial: $600/sesión
+- Ya están pre-aprobados
+
+**Opción 2: Analista externo**
+- Debe enviar CV a la Dirección para aprobación
+- Requisitos mínimos:
+  - Mínimo 8 años de egresado de su institución formativa
+  - Provenga de Asociación, Instituto o Centro de Psicoanálisis reconocido
+- ⚠️ Puede ser rechazado si no cumple criterios
+
+#### Comprobación de Asistencia:
+
+1. **Formatos semestrales obligatorios**
+   - Deben llenarse cada 6 meses
+   - Se envían al Consejo Mexicano de Psicoanálisis y Psicoterapia A.C.
+   - Quedan en resguardo oficial
+
+2. **Consecuencia de no comprobar:**
+   - No se especifica en el documento, pero típicamente:
+   - Suspensión de inscripción
+   - No avance en el programa
+   - Posible baja definitiva
+
+#### Flexibilidad:
+
+- ✅ Puedes cambiar de analista (no especifica proceso)
+- ✅ Puedes negociar frecuencia en "situaciones excepcionales"
+- ❌ NO puedes suspender el análisis mientras estés inscrito
+- ❌ NO puedes graduarte sin cumplir este requisito
+
+---
+
+### 💭 Reflexiones Importantes
+
+#### Ventajas del análisis didáctico:
+- ✅ Crecimiento personal profundo
+- ✅ Mejor práctica clínica futura
+- ✅ Tarifa reducida vs. mercado ($600 vs. $800-1,500)
+- ✅ Supervisión de calidad garantizada
+
+#### Desventajas/Consideraciones:
+- ❌ Compromiso emocional intenso de 3+ años
+- ❌ Puede remover conflictos personales difíciles justo cuando estás estudiando
+- ❌ Costo significativo acumulado ($86,400 - $172,800)
+- ❌ Requiere coordinación de horarios (además de clases y trabajo)
+- ❌ Dependencia: si tu analista ya no está disponible, debes empezar con otro
+
+---
+
+### ❓ Preguntas Adicionales a Validar sobre Análisis Didáctico
+
+31. ¿Qué pasa si necesito cambiar de analista a mitad del programa?
+32. ¿El análisis puede ser virtual o debe ser presencial?
+33. ¿Hay límite máximo de veces que puedo cambiar de analista?
+34. ¿Qué sucede si mi analista se va del país o ya no puede atenderme?
+35. ¿Puedo reducir a 1 sesión/semana temporalmente por razones económicas?
+36. ¿El costo de $600/sesión puede aumentar durante los 3 años?
+37. ¿Qué tan rigurosa es la comprobación semestral?
+38. ¿Puedo tomar vacaciones del análisis en periodos intersemestrales?
+
+---
+
+## 👥 ¿QUÉ ES LA SUPERVISIÓN DIDÁCTICA?
+
+### Definición:
+
+La **supervisión didáctica** es el acompañamiento profesional donde un psicoanalista experimentado revisa y guía tu trabajo clínico con pacientes reales.
+
+---
+
+### 📌 Características de la Supervisión Didáctica
+
+| Aspecto | Detalle |
+|---------|---------|
+| **¿Qué es?** | Sesiones donde presentas tus casos clínicos a un supervisor experto |
+| **¿Cuándo inicia?** | Desde el 2° semestre (cuando empiezas a atender pacientes en CUPPIE) |
+| **Total requerido** | 125 horas obligatorias |
+| **Distribución** | 2 supervisiones: una de 75 o 50 horas, otra con el resto |
+| **Costo** | $600 por hora |
+| **Obligatoriedad** | Solo con supervisores del listado institucional |
+
+---
+
+### 🔄 Diferencia entre Análisis y Supervisión
+
+| Concepto | Análisis Didáctico | Supervisión Didáctica |
+|----------|-------------------|----------------------|
+| **Enfoque** | TUS conflictos personales | TUS CASOS clínicos |
+| **Eres** | El paciente | El terapeuta en formación |
+| **Se habla de** | Tu historia, emociones, conflictos | Tus pacientes y técnica clínica |
+| **Objetivo** | Tu crecimiento personal | Tu desarrollo profesional |
+| **Frecuencia** | 1-2 veces/semana continuo | Según avance de casos |
+| **Duración** | TODO el programa | 2° a 5° semestre |
+| **Costo total** | $86,400 - $172,800 | $75,000 fijo |
+| **Flexibilidad** | Puedes elegir analista externo | SOLO listado institucional |
+
+---
+
+### 📚 ¿Qué se hace en supervisión?
+
+1. **Presentas tus casos clínicos:**
+   - Resumen de sesiones con pacientes de CUPPIE
+   - Transcripciones o notas de sesión
+   - Tus interpretaciones y dudas
+
+2. **El supervisor analiza:**
+   - Tu técnica (interpretaciones, timing, encuadre)
+   - Fenómenos de transferencia y contratransferencia
+   - Posibles puntos ciegos en tu intervención
+   - Diagnóstico y plan terapéutico
+
+3. **Recibes retroalimentación:**
+   - Qué hiciste bien
+   - Qué podrías mejorar
+   - Estrategias alternativas
+   - Lecturas recomendadas
+
+---
+
+### 🎯 Estructura de las 125 horas
+
+#### Primera Supervisión (inicia 2° semestre):
+**Opción A: 75 horas**
+- Duración: ~4 semestres (2 años)
+- Ritmo: ~9 horas por semestre
+- Costo: $45,000
+
+**Opción B: 50 horas**
+- Duración: ~3 semestres (1.5 años)
+- Ritmo: ~17 horas por semestre
+- Costo: $30,000
+
+#### Segunda Supervisión (inicia 4° semestre):
+**Si elegiste Opción A:**
+- 50 horas restantes
+- Duración: ~2 semestres
+- Costo: $30,000
+
+**Si elegiste Opción B:**
+- 75 horas restantes
+- Duración: ~2 semestres
+- Costo: $45,000
+
+---
+
+### ⚠️ Restricciones Importantes
+
+🚫 **Los dos supervisores DEBEN ser del listado institucional**
+- No hay opción de supervisor externo
+- No se especifica razón de esta restricción
+- Posible limitación de estilos/enfoques
+
+❓ **Preguntas a validar:**
+39. ¿Por qué no puedo elegir supervisor externo?
+40. ¿Cuántos supervisores hay en el listado?
+41. ¿Qué pasa si no hay disponibilidad de supervisores?
+42. ¿Puedo cambiar de supervisor si no funciona la relación?
+43. ¿La supervisión puede ser grupal o solo individual?
+44. ¿Cuántas horas de supervisión necesito por cada paciente?
+
+---
+
 ## 💵 DESGLOSE DETALLADO DE COSTOS (Pregunta 7)
 
 ### Análisis Didáctico (Obligatorio durante TODO el programa)
@@ -326,4 +542,3 @@
 8. **Solicitar estadísticas** de graduación y empleabilidad
 
 ---
-
